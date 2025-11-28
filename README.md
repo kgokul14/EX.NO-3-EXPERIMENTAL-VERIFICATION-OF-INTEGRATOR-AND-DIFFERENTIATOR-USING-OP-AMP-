@@ -67,7 +67,8 @@ CIRCUIT DIAGRAM
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![306](https://github.com/user-attachments/assets/728ae71b-091f-40c3-a5f3-b199633d6b46)
+![WhatsApp Image 2025-11-28 at 18 03 09_d88a8974](https://github.com/user-attachments/assets/8f3f28d4-b7cc-4394-b273-3fb62eba95f3)
+
 
 
 ---
