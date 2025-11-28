@@ -143,8 +143,8 @@ AND
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 17 57 49_61224d3e](https://github.com/user-attachments/assets/5e346077-ad39-44ff-a222-c0571e9be882)
 
-![WhatsApp Image 2025-11-28 at 14 30 22_37a161b7](https://github.com/user-attachments/assets/acee89d8-abcc-4e1f-8acc-bd075a6f110c)
 
 
 RESULT:
